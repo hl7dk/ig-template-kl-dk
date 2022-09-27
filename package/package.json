@@ -1,0 +1,13 @@
+{
+  "name": "kl.dk.fhir.template",
+  "version": "0.0.1",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "KL Template - for use with KL's FHIR IGs",
+  "author": "http://github.com/hl7dk",
+  "canonical": "http://github.com/hl7dk/ig-template-kl-dk",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}
